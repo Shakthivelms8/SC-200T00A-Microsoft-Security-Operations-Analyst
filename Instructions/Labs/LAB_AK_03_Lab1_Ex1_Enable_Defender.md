@@ -106,6 +106,7 @@ In this task, you will install Azure Arc on an on-premises server to make onboar
 1. Select **Next** to get to the Resource details tab.
 
 1. Select the Resource group you created earlier. **Hint:** *RG-Defender*
+1. Select the Region **East US** 
 
     >**Note:** If you haven't already created a resource group, open another tab and create the resource group and start over.
 
