@@ -25,11 +25,13 @@ In this task, you will create a hunting query, bookmark a result, and create a L
 
 1. In the Edge browser, navigate to the Azure portal at https://portal.azure.com.
 
-1. In the **Sign in** dialog box, copy and paste in the **Tenant Email** account provided by your lab hosting provider and then select **Next**.
+1. In the **Sign in** dialog box, copy and paste the Email/Username: <inject key="AzureAdUserEmail"></inject> provided by your lab hosting provider and then select **Next**.
 
-1. In the **Enter password** dialog box, copy and paste in the **Tenant Password** provided by your lab hosting provider and then select **Sign in**.
+1. In the **Enter password** dialog box, copy and paste the Password: <inject key="AzureAdUserPassword"></inject> provided by your lab hosting provider and then select **Sign in**.
 
 1. In the Search bar of the Azure portal, type *Sentinel*, then select **Microsoft Sentinel**.
+
+1. select create and add the workspace you created.
 
 1. Select your Microsoft Sentinel Workspace.
 
